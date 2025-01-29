@@ -1,0 +1,8 @@
+PySide6
+pdf2image
+opencv-python
+cvzone
+numpy
+pillow
+mediapipe==0.10.11
+pyautogui
