@@ -6,9 +6,7 @@
 
 **Une visionneuse PDF innovante avec contrôle gestuel et interface moderne**  
 
-<div align="center">
-  <img src="screenshot.png" alt="Interface" width="600">
-</div>
+
 
 ## ✨ Fonctionnalités
 
